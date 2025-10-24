@@ -1,0 +1,155 @@
+#H1{
+    border:2px,solid rgb(4, 6, 56);
+    background:rgb(20, 27, 210);
+    color:white;
+    height:120px;
+    width:2000px;
+    position:fixed;
+    z-index:1000;
+    top:0;
+    left:0;
+}
+#a1{
+    color:white;
+    position:absolute;
+    left:400px;
+    font-size:20px;
+}
+#a2{
+    color:white;
+    position:absolute;
+    left:650px;
+    font-size:20px;
+}
+#a3{
+    color:white;
+    position:absolute;
+    left:850px;
+    font-size:20px;
+}
+#a4{
+    color:white;
+    position:absolute;
+    left:1100px;
+    font-size:20px;
+}
+#h2a{
+    position:absolute;
+    top:120px;
+    left:700px;
+    font-family:Poppins;
+}
+#img1{
+    width:300px;
+    position:absolute;
+    top:190px;
+    left:620px;
+    border-radius:40%;
+}
+#p1{
+    position:absolute;
+    top:660px;
+    left:450px;
+    font-family:Trirong;
+}
+#hr1{
+    position:absolute;
+    top:700px;
+}
+#Skills{
+    position:absolute;
+    top:700px;
+    left:700px;
+    font-family: Poppins;
+
+}
+#table1{
+    position:absolute;
+    width:700px;
+    top:800px;
+    left:400px;
+}
+.td1{
+    background:rgb(169, 14, 212);
+    color:white;
+    border-color:rgb(44, 3, 55);
+    text-align: center;
+}
+.td2{
+    text-align: center;
+}
+#hr2{
+    position:absolute;
+    top:1100px;
+}
+#Projects{
+    position:absolute;
+    top:1150px;
+    left:700px;
+    font-family:Poppins;
+}
+#project1{
+    position:absolute;
+    top:1600px;
+    left:600px;
+    color:chocolate
+}
+#vd1{
+    position:absolute;
+    top:1250px;
+    left:460px;
+}
+#project2{
+    position:absolute;
+    top:2130px;
+    left:600px;
+    color:rgb(255, 80, 118)
+}
+#vd2{
+    position:absolute;
+    top:1800px;
+    left:460px;
+}
+#hr3{
+    position:absolute;
+    top:2200px;
+}
+#Contact{
+    position:absolute;
+    top:2250px;
+    left:700px;
+    font-family:Poppins;
+}
+#table2{
+    width:700px;
+    border-color: rgb(51, 200, 17);
+    position:absolute;
+    top:2350px;
+    left:400px;
+}
+#submit{
+    color:white;
+    background-color:rgb(51, 200, 17);
+    width:120px;
+    position:absolute;
+    left:300px;
+    bottom:10px;
+}
+#p2{
+    position:absolute;
+    top:2700px;
+    border:2px,solid black;
+    width:1517px;
+    height:20px;
+    left:0px;
+    background-color:rgb(20, 27, 210);
+}
+#Back_to_top{
+    font-size:15px;;
+    position:fixed;
+    top:650px;
+    left:1300px;
+    border:3px,solid black;
+    background-color:rgb(191, 211, 193);
+    border-radius: 30%;
+}
